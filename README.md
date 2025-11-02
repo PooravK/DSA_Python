@@ -1,11 +1,6 @@
-📊 DSA Progress Tracker
+# 📊 DSA Progress Tracker
 
 Total Problems Solved:
-
-Language: Python
-
-
-Topic-wise Breakdown
 
 Arrays:
 
